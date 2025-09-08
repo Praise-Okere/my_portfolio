@@ -14,17 +14,17 @@ export default function Portfolio() {
       demo: "https://medical-dashboard.pxxl.click/"
     },
     {
-      title: "NFT Marketplace",
-      description: "Full-stack NFT marketplace with minting, buying, and selling capabilities",
-      tech: ["Next.js", "Ethereum", "IPFS", "MetaMask"],
-      github: "#",
-      demo: "#"
+      title: "Exquisite Cakes & Events",
+      description: "A comprehensive web application for a cake business that allows users to browse cake designs, place orders, and manage event bookings.",
+      tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+      github: "https://github.com/Praise-Okere/creative-kharis",
+      demo: "https://creative-kharis.vercel.app/"
     },
     {
       title: "My Portfolio Website",
       description: " My personal portfolio website showcasing my projects, skills, and experiences, designed to highlight my work and provide an easy way to connect with me.",
       tech: ["Nextjs", "TypeScript", "Tailwind CSS"],
-      github: "",
+      github: "https://github.com/Praise-Okere/my_portfolio",
       demo: "#"
     }
   ]
