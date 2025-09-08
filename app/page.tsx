@@ -25,7 +25,7 @@ export default function Portfolio() {
       description: " My personal portfolio website showcasing my projects, skills, and experiences, designed to highlight my work and provide an easy way to connect with me.",
       tech: ["Nextjs", "TypeScript", "Tailwind CSS"],
       github: "https://github.com/Praise-Okere/my_portfolio",
-      demo: "#"
+      demo: "https://myportfolio0.pxxl.xyz/"
     }
   ]
 
